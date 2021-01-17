@@ -1,0 +1,20 @@
+{
+  "twit": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-boyaki-twit-195524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::927515246716:role/amplify-boyaki-twit-195524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::927515246716:role/amplify-boyaki-twit-195524-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-boyaki-twit-195524-deployment",
+      "UnauthRoleName": "amplify-boyaki-twit-195524-unauthRole",
+      "StackName": "amplify-boyaki-twit-195524",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:927515246716:stack/amplify-boyaki-twit-195524/574b4800-57e9-11eb-9716-0e2e00e8e3c1",
+      "AmplifyAppId": "d1m45y5bghcoya"
+    },
+    "categories": {
+      "auth": {
+        "boyaki48d55301": {}
+      }
+    }
+  }
+}
